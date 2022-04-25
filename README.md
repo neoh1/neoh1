@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neoh1
-- 👀 I’m interested in deep learning / data-analytics
+- 👀 I’m interested in particle physics / deep learning / data-analytics
 
 <!---
 - 🌱 I’m currently learning ...
