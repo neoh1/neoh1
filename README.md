@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @neoh1
-- 👀 I’m interested in particle physics / deep learning / data-analytics
-
+👋🌱💞️📫✨ 
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
